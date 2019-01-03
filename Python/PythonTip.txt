@@ -1,0 +1,14 @@
+Tuple : after creation it can't ammend.
+	Sample=("Rizwan", 1,1, "Hello")
+
+	Sample[1]=3 or Sample[0]="Haider" ***not possible
+
+
+**************************************************************************
+	Sample[1]=3 or Sample[0]="Haider" ***not possible
+List : after creatoin it can be ammended
+
+	Sample=("Rizwan", 1,1, "Hello")
+	
+	Sample[1]=3 or Sample[0]="Haider" ***possible
+
