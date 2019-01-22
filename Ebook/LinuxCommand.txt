@@ -1,0 +1,15 @@
+1) How to format Pendrive using Command Prompt.
+
+	lsblk            (to show the partition lable of disk)
+
+	sudo umount /dev/sdy1  (To unmount the disk * sdy1 will be change)
+
+	sudo mkfs.vfat /dev/sdy1 (Format drive with fat file sys)
+
+	sudo mkfs.vfat -n 'Give Lable Name' /dev/sdy1 (It will format and change lable)
+
+
+2)
+
+
+
